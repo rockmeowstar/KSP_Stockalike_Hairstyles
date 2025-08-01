@@ -20,6 +20,7 @@ Get the latest .zip from releases. Unzip it, paste SF folder in your TextureRepl
 Requirements:
 https://ksp.sarbian.com/jenkins/job/ModuleManager/
 https://github.com/ducakar/TextureReplacer
+
 ```
 └──────GameData
         ├──────ModuleManager.dll
