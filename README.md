@@ -22,7 +22,11 @@ https://ksp.sarbian.com/jenkins/job/ModuleManager/
 https://github.com/ducakar/TextureReplacer
 
 └──────GameData
+
         ├──────ModuleManager.dll
+        
         └──────TextureReplacer
+        
                 └──────Skins
+                
                         └──────SF
