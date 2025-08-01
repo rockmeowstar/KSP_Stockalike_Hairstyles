@@ -1,4 +1,4 @@
-KSP Stockalike Hairstyles - 14 hand‑drawn, stock‑friendly styles based on real kosmonauts.
+**KSP Stockalike Hairstyles** - 14 hand‑drawn, stock‑friendly styles based on real kosmonauts.
 
 Now the Kerbals are unique enough to spot in a cinematic shot, without breaking the vanilla vibe.
 
@@ -13,22 +13,22 @@ But not *that* tired to start giving them purple beards?
 Here’s a small, cozy mod for you.
 
 
-Download:
+**Download:**
 
 https://github.com/rockmeowstar/KSP_Stockalike_Hairstyles/releases
 
 
-Known issues: 
+**Known issues:**
 
 If something is wrong please let me know. 
 
 
-Manual installation
+**Manual installation:**
 
 Get the latest .zip from releases. Unzip it, paste SF folder in your TextureReplacer/Skins folder.
 
 
-Requirements:
+**Requirements:**
 
 https://ksp.sarbian.com/jenkins/job/ModuleManager/
 
