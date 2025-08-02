@@ -41,3 +41,10 @@ https://github.com/ducakar/TextureReplacer
                 └──────Skins
                         └──────SF
 ```
+
+
+![screenshot97](https://github.com/user-attachments/assets/9d298d72-6954-48b0-b01e-3150bd904b6e)
+
+![screenshot98](https://github.com/user-attachments/assets/8916ed27-68f7-4a8e-b2f9-f1f473cbda67)
+
+![screenshot99](https://github.com/user-attachments/assets/d0976940-2eec-40d5-bf57-daf2b72efc6a)
